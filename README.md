@@ -1,3 +1,3 @@
 # DataAnalysis0.1
+![image](https://github.com/TejasRatambe/DataAnalysis0.1/assets/99137410/63f29310-9488-42a4-a0b7-c9de7245e960)
 
-![Microsoft_Excel_2013-2019_logo svg](https://github.com/TejasRatambe/DataAnalysis0.1/assets/99137410/0b5446cf-8903-4daf-9bb8-6177f31596b8)
